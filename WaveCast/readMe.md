@@ -1,4 +1,4 @@
-# Projeto de desenvolvimento responsivo com MOBILE-FIRST 😃
+# Projeto de desenvolvimento responsivo com foco em GRID Layout 😃
 
 Projeto oferecido no curso do Alura focado em desenvolver uma página responsiva de escutar músicas aprfundando em GRID Layout.
 
