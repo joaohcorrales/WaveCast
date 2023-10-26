@@ -1,6 +1,6 @@
 # Projeto de desenvolvimento responsivo com foco em GRID Layout 😃
 
-Projeto oferecido no curso do Alura focado em desenvolver uma página responsiva de escutar músicas aprfundando em GRID Layout.
+Projeto oferecido no curso do Alura focado em desenvolver uma página responsiva de escutar músicas aprofundando em GRID Layout.
 
 ## MOBILE
 
